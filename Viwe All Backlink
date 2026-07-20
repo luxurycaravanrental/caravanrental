@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Luxury Caravan Rental Backlink Directory</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f4f6f9;margin:0}
+header{background:#8a1f11;color:#fff;padding:24px;text-align:center}
+.container{max-width:1100px;margin:20px auto;padding:20px}
+input{width:100%;padding:12px;font-size:16px;margin-bottom:20px;box-sizing:border-box}
+section{background:#fff;padding:18px;margin:18px 0;border-radius:10px}
+li{margin:6px 0;word-break:break-all}
+</style>
+</head><body>
+<header><h1>Luxury Caravan Rental Backlink Directory</h1><p>Total Unique Backlinks: 9</p></header>
+<div class="container">
+<input id="q" placeholder="Search backlinks...">
 
+<section><h2>Google Sites (3)</h2><ul>
+<li><a href="https://sites.google.com/view/luxurycaravanrental/home" target="_blank" rel="noopener noreferrer">https://sites.google.com/view/luxurycaravanrental/home</a></li>
+<li><a href="https://sites.google.com/view/budget-friendly-caravan/" target="_blank" rel="noopener noreferrer">https://sites.google.com/view/budget-friendly-caravan/</a></li>
+<li><a href="https://sites.google.com/view/caravan-rental-services/" target="_blank" rel="noopener noreferrer">https://sites.google.com/view/caravan-rental-services/</a></li>
+</ul></section>
+
+<section><h2>Wix Sites (1)</h2><ul>
+<li><a href="https://luxurycaravanrenta.wixsite.com/my-site-1" target="_blank" rel="noopener noreferrer">https://luxurycaravanrenta.wixsite.com/my-site-1</a></li>
+</ul></section>
+
+<section><h2>Blogspot Articles (3)</h2><ul>
+<li><a href="https://caravanrentalservice.blogspot.com/2026/05/affordable-caravan-rentals-for-flexible.html" target="_blank" rel="noopener noreferrer">https://caravanrentalservice.blogspot.com/2026/05/affordable-caravan-rentals-for-flexible.html</a></li>
+<li><a href="https://caravanrentalservice.blogspot.com/2026/05/caravan-rental-services-ultimate-guide.html" target="_blank" rel="noopener noreferrer">https://caravanrentalservice.blogspot.com/2026/05/caravan-rental-services-ultimate-guide.html</a></li>
+<li><a href="https://caravanrentalservice.blogspot.com/2026/06/luxury-motorhome-hire-in-delhi-complete.html" target="_blank" rel="noopener noreferrer">https://caravanrentalservice.blogspot.com/2026/06/luxury-motorhome-hire-in-delhi-complete.html</a></li>
+</ul></section>
+
+<section><h2>Guest Posts & Articles (1)</h2><ul>
+<li><a href="https://luxurycaravanrental.livepositively.com/travel/luxury-caravan-road-trip-india-the-ultimate-guide-to-exploring-india-with-luxury-comfort-and-freedom" target="_blank" rel="noopener noreferrer">https://luxurycaravanrental.livepositively.com/travel/luxury-caravan-road-trip-india-the-ultimate-guide-to-exploring-india-with-luxury-comfort-and-freedom</a></li>
+</ul></section>
+
+<section><h2>Forum / Support Profiles (1)</h2><ul>
+<li><a href="https://help.evernote.com/hc/en-us/requests/4460249" target="_blank" rel="noopener noreferrer">https://help.evernote.com/hc/en-us/requests/4460249</a></li>
+</ul></section>
+
+</div>
+<script>
+const q=document.getElementById('q');
+q.oninput=()=>{
+ const t=q.value.toLowerCase();
+ document.querySelectorAll('li').forEach(li=>{li.style.display=li.textContent.toLowerCase().includes(t)?'':'none';});
+};
+</script>
+</body></html>
